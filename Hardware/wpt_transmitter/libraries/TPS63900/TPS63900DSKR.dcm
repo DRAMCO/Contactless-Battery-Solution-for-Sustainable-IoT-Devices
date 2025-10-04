@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63900DSKR
+D 1.8-V to 5.5-V, 75-nA IQ Buck-boost Converter with Input Current Limit and DVS
+K
+F https://www.ti.com/lit/gpn/tps63900?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes
+$ENDCMP
+#
+#End Doc Library

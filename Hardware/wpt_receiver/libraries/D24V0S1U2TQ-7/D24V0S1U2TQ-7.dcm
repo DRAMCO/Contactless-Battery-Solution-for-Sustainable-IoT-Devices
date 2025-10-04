@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D24V0S1U2TQ-7
+D ESD Suppressors / TVS Diodes General Protection PP SOD523 T&R 3K
+K
+F https://www.diodes.com/assets/Datasheets/D24V0S1U2TQ.pdf
+$ENDCMP
+#
+#End Doc Library

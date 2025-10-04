@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5121BCPZ100-RL7
+D AD5121BCPZ100-RL7, Digital Potentiometer 100k 128-Position Linear Serial-I2C, Serial-SPI 16-Pin LFCSP
+K
+F https://componentsearchengine.com/Datasheets/1/AD5121BCPZ100-RL7.pdf
+$ENDCMP
+#
+#End Doc Library

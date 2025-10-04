@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PHVL-3R9V505-R
+D Supercapacitors / Ultracapacitors CAP PHVL 3.9V5F 0.065OHM VERT
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-phvl-supercapacitor-cylindrical-pack-data-sheet-elx1022-en.pdf
+$ENDCMP
+#
+#End Doc Library

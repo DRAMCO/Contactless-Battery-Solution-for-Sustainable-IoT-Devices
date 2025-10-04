@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PD3S140-7
+D Schottky Diodes & Rectifiers 1.0A 40V
+K
+F https://componentsearchengine.com/Datasheets/2/PD3S140-7.pdf
+$ENDCMP
+#
+#End Doc Library
